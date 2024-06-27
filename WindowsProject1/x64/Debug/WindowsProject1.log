@@ -1,0 +1,13 @@
+﻿SoundManager.obj : error LNK2019: FMOD_System_Create"public: void __cdecl CSoundManager::Initialize(void)" (?Initialize@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_System_Release"public: void __cdecl CSoundManager::Release(void)" (?Release@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_System_Init"public: void __cdecl CSoundManager::Initialize(void)" (?Initialize@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_System_Close"public: void __cdecl CSoundManager::Release(void)" (?Release@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_System_Update"public: void __cdecl CSoundManager::PlaySound(wchar_t *,enum CSoundManager::CHANNELID)" (?PlaySound@CSoundManager@@QEAAXPEA_WW4CHANNELID@1@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_System_CreateSound"private: void __cdecl CSoundManager::LoadSoundFile(void)" (?LoadSoundFile@CSoundManager@@AEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_System_PlaySound"public: void __cdecl CSoundManager::PlaySound(wchar_t *,enum CSoundManager::CHANNELID)" (?PlaySound@CSoundManager@@QEAAXPEA_WW4CHANNELID@1@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_Sound_Release"public: void __cdecl CSoundManager::Release(void)" (?Release@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_Channel_Stop"public: void __cdecl CSoundManager::StopSound(enum CSoundManager::CHANNELID)" (?StopSound@CSoundManager@@QEAAXW4CHANNELID@1@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_Channel_IsPlaying"public: void __cdecl CSoundManager::PlaySound(wchar_t *,enum CSoundManager::CHANNELID)" (?PlaySound@CSoundManager@@QEAAXPEA_WW4CHANNELID@1@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: FMOD_Channel_SetMode"public: void __cdecl CSoundManager::PlayBGM(wchar_t *)" (?PlayBGM@CSoundManager@@QEAAXPEA_W@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+.\Header\fmodex_vc.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\gustn\OneDrive\바탕 화면\github\GitHub\mario\mario\x64\Debug\WindowsProject1.exe : fatal error LNK1120: 11개의 확인할 수 없는 외부 참조입니다.

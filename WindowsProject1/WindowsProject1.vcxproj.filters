@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00 defalt">
+      <UniqueIdentifier>{0c5a25b8-fb1d-4d80-9564-039248a9bfc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 main">
+      <UniqueIdentifier>{c9d276fa-f238-4440-9cf3-87241c429ebd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00 header">
+      <UniqueIdentifier>{f6df851f-0c2f-4ae4-9480-b83012fc7e0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object">
+      <UniqueIdentifier>{28ce79ed-2102-4818-89ca-80cb83e832c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager">
+      <UniqueIdentifier>{41dfcb8a-d5f0-4b3e-9c6b-f4ef23b9cd34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager\key">
+      <UniqueIdentifier>{5820e4c7-6693-4533-8681-ce058c97e3d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager\map">
+      <UniqueIdentifier>{ece92f50-3f8f-4ee8-a957-a15534a2c04f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager\image">
+      <UniqueIdentifier>{59410861-039b-4382-a516-2442a33735d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager\Scene">
+      <UniqueIdentifier>{df81f487-e503-414f-86dd-4282268c3388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Block">
+      <UniqueIdentifier>{03ed5a38-6d60-4c02-8b66-f268ac7961cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04 Butten">
+      <UniqueIdentifier>{32460421-8238-4e10-82b2-4bab61896de1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00 image">
+      <UniqueIdentifier>{0a77d268-61eb-4bb9-9ec0-d6a74a59bf92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05 Cursor">
+      <UniqueIdentifier>{08a1b696-bc93-4373-b8ac-296e501f4f35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07 Scene">
+      <UniqueIdentifier>{266a78e3-1a08-4874-8827-70b5a46b7193}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07 Scene\Stage">
+      <UniqueIdentifier>{d306946f-9280-4844-a4dd-5aaeae894a3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07 Scene\Menu">
+      <UniqueIdentifier>{5848012a-5746-4c48-88b4-b5e47fa9835c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07 Scene\Loading">
+      <UniqueIdentifier>{6a934e70-c034-446f-9d48-1d3dd1692775}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager\charic">
+      <UniqueIdentifier>{f00dc4b5-06a0-4a6b-a73a-1037c11e666b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager\block">
+      <UniqueIdentifier>{ae91dbee-ed98-46de-bcce-e377c1f3b495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Charic">
+      <UniqueIdentifier>{f72cb84b-0328-4564-875c-cc961fd8e37c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Item">
+      <UniqueIdentifier>{af3b88be-0bfa-4180-a499-e723c16962d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Item\Coin">
+      <UniqueIdentifier>{dcc2a315-0301-49be-9069-0c307dfaa0db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager\item">
+      <UniqueIdentifier>{a71fc0a9-e762-49ed-b6ad-7cc04f34a83b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Item\Mushroom">
+      <UniqueIdentifier>{5e42fc59-6363-4a87-953b-8f919cde26d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Item\FireFlower">
+      <UniqueIdentifier>{4fc214f7-2353-4a71-8a18-160682e4d558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Item\Fire">
+      <UniqueIdentifier>{2259f108-b99c-4a45-8996-139f756af1e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Item\SuperBall">
+      <UniqueIdentifier>{2b35633d-2a2d-4b5c-ba0d-5db2cacfc9f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Item\SuperFlower">
+      <UniqueIdentifier>{87be4419-1008-4e13-a182-f7c05b199ee7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06 Map">
+      <UniqueIdentifier>{54ae2eaf-cf8d-4ced-94b6-8386aeda191a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Charic\01 Goomba">
+      <UniqueIdentifier>{f2591b11-c9d2-434a-aacc-5acbf6dc02f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Charic\02 Goombrat">
+      <UniqueIdentifier>{58c4fdad-4085-4e94-a139-7f82f5c654c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Charic\03 Onggum">
+      <UniqueIdentifier>{3217283b-fb9b-4b1c-a95d-5946ab57a2cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Charic\04 RedOnggum">
+      <UniqueIdentifier>{f2d3aad8-23ad-4d57-86df-8e5525adf3b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Charic\00 player">
+      <UniqueIdentifier>{9ec19c85-3e01-47d3-80ea-07e6c3edc806}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Block\Pipe">
+      <UniqueIdentifier>{9a8c1567-ce81-4a2f-9f61-6675798a1ccb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Block\01 HalfGround">
+      <UniqueIdentifier>{18d335b7-9777-492f-aeee-aa98072dc130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Block\02 Ground">
+      <UniqueIdentifier>{6d1f8209-3a11-47c5-9a35-7bc0fcee245e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 manager\sound">
+      <UniqueIdentifier>{5e662c9e-0d4b-4b94-b82e-e67483b020f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07 Scene\Clear">
+      <UniqueIdentifier>{db39e18a-a22d-4b63-aa8d-071bf51cf0bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07 Scene\Gameover">
+      <UniqueIdentifier>{967d8bd4-58d7-4857-99d7-64d61f5cd48b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Block\03 NomalBlock">
+      <UniqueIdentifier>{5abb0df9-d18c-4e4a-8fb4-fa5d1038783e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Block\04 ItemBlock">
+      <UniqueIdentifier>{901084a7-00a2-4f2d-b8ce-3c5adb5084af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Block\05 ItemBox">
+      <UniqueIdentifier>{80174a98-2991-4963-9a0e-846acc8aa674}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 object\Block\06 Goal">
+      <UniqueIdentifier>{a1d2ac9f-08de-4253-9622-b597adb1c0e6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>00 defalt</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowsProject1.h">
+      <Filter>00 defalt</Filter>
+    </ClInclude>
+    <ClInclude Include="Main\Main.h">
+      <Filter>01 main</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\Define.h">
+      <Filter>00 header</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\Extern.h">
+      <Filter>00 header</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\framework.h">
+      <Filter>00 header</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\Pos.h">
+      <Filter>00 header</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\targetver.h">
+      <Filter>00 header</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\Template.h">
+      <Filter>00 header</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Object.h">
+      <Filter>03 object</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\KeyManager.h">
+      <Filter>02 manager\key</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\MapManager.h">
+      <Filter>02 manager\map</Filter>
+    </ClInclude>
+    <ClInclude Include="Image\ImageMap.h">
+      <Filter>00 image</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\ImageManager.h">
+      <Filter>02 manager\image</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\Scene.h">
+      <Filter>07 Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Map\Map.h">
+      <Filter>06 Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\Stage\Stage.h">
+      <Filter>07 Scene\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\Menu\Menu.h">
+      <Filter>07 Scene\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\SceneManager.h">
+      <Filter>02 manager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Block\Block.h">
+      <Filter>03 object\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="Butten\Butten.h">
+      <Filter>04 Butten</Filter>
+    </ClInclude>
+    <ClInclude Include="Cursor\Cursor.h">
+      <Filter>05 Cursor</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\Loading\Loading.h">
+      <Filter>07 Scene\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\CharicManager.h">
+      <Filter>02 manager\charic</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Block\ItemBlock\ItemBlock.h">
+      <Filter>03 object\Block\04 ItemBlock</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Block\Ground\Ground.h">
+      <Filter>03 object\Block\02 Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\BlockManager.h">
+      <Filter>02 manager\block</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Charic\Charic.h">
+      <Filter>03 object\Charic</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Charic\Player\Player.h">
+      <Filter>03 object\Charic\00 player</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Item\Item.h">
+      <Filter>03 object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Item\Coin\Coin.h">
+      <Filter>03 object\Item\Coin</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\ItemManager.h">
+      <Filter>02 manager\item</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Item\Mushroom\Mushroom.h">
+      <Filter>03 object\Item\Mushroom</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Item\FireFlower\FireFlower.h">
+      <Filter>03 object\Item\FireFlower</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Item\Fire\Fire.h">
+      <Filter>03 object\Item\Fire</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Item\SuperBall\SuperBall.h">
+      <Filter>03 object\Item\SuperBall</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Item\SuperFlower\SuperFlower.h">
+      <Filter>03 object\Item\SuperFlower</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Block\ItemBox\ItemBox.h">
+      <Filter>03 object\Block\05 ItemBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Charic\Goomba\Goomba.h">
+      <Filter>03 object\Charic\01 Goomba</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Charic\Goombrat\Goombrat.h">
+      <Filter>03 object\Charic\02 Goombrat</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Charic\Onggum\Onggum.h">
+      <Filter>03 object\Charic\03 Onggum</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Charic\RedOnggum\RedOnggum.h">
+      <Filter>03 object\Charic\04 RedOnggum</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Block\Pipe\Pipe.h">
+      <Filter>03 object\Block\Pipe</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Block\HalfGround\HalfGround.h">
+      <Filter>03 object\Block\01 HalfGround</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Block\Goal\Goal.h">
+      <Filter>03 object\Block\06 Goal</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\SoundManager.h">
+      <Filter>02 manager\sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\Clear\Clear.h">
+      <Filter>07 Scene\Clear</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\GameOver\GameOver.h">
+      <Filter>07 Scene\Gameover</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Block\NomalBlock\NomalBlock.h">
+      <Filter>03 object\Block\03 NomalBlock</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>00 defalt</Filter>
+    </Image>
+    <Image Include="WindowsProject1.ico">
+      <Filter>00 defalt</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WindowsProject1.cpp">
+      <Filter>00 defalt</Filter>
+    </ClCompile>
+    <ClCompile Include="Main\Main.cpp">
+      <Filter>01 main</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\Extern.cpp">
+      <Filter>00 header</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Object.cpp">
+      <Filter>03 object</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\KeyManager.cpp">
+      <Filter>02 manager\key</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\MapManager.cpp">
+      <Filter>02 manager\map</Filter>
+    </ClCompile>
+    <ClCompile Include="Image\ImageMap.cpp">
+      <Filter>00 image</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\ImageManager.cpp">
+      <Filter>02 manager\image</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\Scene.cpp">
+      <Filter>07 Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Map\Map.cpp">
+      <Filter>06 Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\Stage\Stage.cpp">
+      <Filter>07 Scene\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\Menu\Menu.cpp">
+      <Filter>07 Scene\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\SceneManager.cpp">
+      <Filter>02 manager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Block\Block.cpp">
+      <Filter>03 object\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="Butten\Butten.cpp">
+      <Filter>04 Butten</Filter>
+    </ClCompile>
+    <ClCompile Include="Cursor\Cursor.cpp">
+      <Filter>05 Cursor</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\Loading\Loading.cpp">
+      <Filter>07 Scene\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\CharicManager.cpp">
+      <Filter>02 manager\charic</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Block\ItemBlock\ItemBlock.cpp">
+      <Filter>03 object\Block\04 ItemBlock</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Block\Ground\Ground.cpp">
+      <Filter>03 object\Block\02 Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\BlockManager.cpp">
+      <Filter>02 manager\block</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Charic\Charic.cpp">
+      <Filter>03 object\Charic</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Charic\Player\Player.cpp">
+      <Filter>03 object\Charic\00 player</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Item\Item.cpp">
+      <Filter>03 object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Item\Coin\Coin.cpp">
+      <Filter>03 object\Item\Coin</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\ItemManager.cpp">
+      <Filter>02 manager\item</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Item\Mushroom\Mushroom.cpp">
+      <Filter>03 object\Item\Mushroom</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Item\FireFlower\FireFlower.cpp">
+      <Filter>03 object\Item\FireFlower</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Item\Fire\Fire.cpp">
+      <Filter>03 object\Item\Fire</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Item\SuperBall\SuperBall.cpp">
+      <Filter>03 object\Item\SuperBall</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Item\SuperFlower\SuperFlower.cpp">
+      <Filter>03 object\Item\SuperFlower</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Block\ItemBox\ItemBox.cpp">
+      <Filter>03 object\Block\05 ItemBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Charic\Goomba\Goomba.cpp">
+      <Filter>03 object\Charic\01 Goomba</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Charic\Goombrat\Goombrat.cpp">
+      <Filter>03 object\Charic\02 Goombrat</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Charic\Onggum\Onggum.cpp">
+      <Filter>03 object\Charic\03 Onggum</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Charic\RedOnggum\RedOnggum.cpp">
+      <Filter>03 object\Charic\04 RedOnggum</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Block\Pipe\Pipe.cpp">
+      <Filter>03 object\Block\Pipe</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Block\HalfGround\HalfGround.cpp">
+      <Filter>03 object\Block\01 HalfGround</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Block\Goal\Goal.cpp">
+      <Filter>03 object\Block\06 Goal</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\SoundManager.cpp">
+      <Filter>02 manager\sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\Clear\Clear.cpp">
+      <Filter>07 Scene\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\GameOver\GameOver.cpp">
+      <Filter>07 Scene\Gameover</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\Block\NomalBlock\NomalBlock.cpp">
+      <Filter>03 object\Block\03 NomalBlock</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WindowsProject1.rc">
+      <Filter>00 defalt</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
